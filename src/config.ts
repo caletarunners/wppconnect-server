@@ -1,7 +1,7 @@
 import { ServerOptions } from './types/ServerOptions';
 
 export default {
-  secretKey: 'MI_SECRETO_DE_RENDER',
+  secretKey: 'Braj.1018',
   host: 'http://localhost',
   port: '21465',
   deviceName: 'WppConnect',
